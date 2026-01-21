@@ -1,4 +1,4 @@
-const CACHE_NAME = "weather-app-v6";
+const CACHE_NAME = "weather-app-v7";
 const urlsToCache = ["index.html", "offline.html"];
 
 const self = this;
