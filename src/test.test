@@ -1,0 +1,39 @@
+pwa-weather/
+│
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   ├── offline.html
+│   └── serviceworker.js
+│
+├── src/
+│   ├── api/
+│   │   └── fetchWeather.js
+│   │
+│   ├── context/
+│   │   └── TemperatureContext.jsx
+│   │
+│   ├── components/
+│   │   ├── SearchInput.jsx
+│   │   ├── WeatherCard.jsx
+│   │   ├── LoadingSpinner.jsx
+│   │   ├── RecentSearches.jsx
+│   │   └── UnitToggle.jsx
+│   │
+│   ├── App.jsx
+│   ├── index.js
+│   └── index.css
+│
+├── package.json
+└── README.md
+
+
+git status
+
+git add .
+
+git commit -m "Add loading state, recent searches and unit toggle"
+
+git push
+
+Submit GitHub link on Microsoft Teams
