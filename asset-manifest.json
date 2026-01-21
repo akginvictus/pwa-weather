@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pwa-weather/static/js/main.f450ce64.js",
+    "index.html": "/pwa-weather/index.html",
+    "main.f450ce64.js.map": "/pwa-weather/static/js/main.f450ce64.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f450ce64.js"
+  ]
+}
